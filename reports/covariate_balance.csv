@@ -1,0 +1,14 @@
+variable,variable_type,comparison,metric,value,treatment_mean,control_mean,p_value
+recency,numeric_or_binary,Men's email vs no email,standardized_mean_difference,0.006831532454259954,5.773642464917633,5.749694921618324,
+recency,numeric_or_binary,Women's email vs no email,standardized_mean_difference,0.005180013205688683,5.767849628278861,5.749694921618324,
+history,numeric_or_binary,Men's email vs no email,standardized_mean_difference,0.00761286832154239,242.83593091472284,240.8826532432179,
+history,numeric_or_binary,Women's email vs no email,standardized_mean_difference,0.006510722458553667,242.53663346892975,240.8826532432179,
+mens,numeric_or_binary,Men's email vs no email,standardized_mean_difference,-0.0045823256374879625,0.5509456985967053,0.5532244438186427,
+mens,numeric_or_binary,Women's email vs no email,standardized_mean_difference,-0.008630731202832915,0.548931593958947,0.5532244438186427,
+womens,numeric_or_binary,Men's email vs no email,standardized_mean_difference,0.007588929691887142,0.551415027925095,0.5476391626771802,
+womens,numeric_or_binary,Women's email vs no email,standardized_mean_difference,0.004946313992582152,0.5501005283583486,0.5476391626771802,
+newbie,numeric_or_binary,Men's email vs no email,standardized_mean_difference,-0.0008918953696535328,0.5015253203172666,0.5019712756969867,
+newbie,numeric_or_binary,Women's email vs no email,standardized_mean_difference,0.0025567009140795606,0.5032496376303361,0.5019712756969867,
+history_segment,categorical,All experiment groups,cramers_v,0.01013706517728597,,,0.3579979967183696
+zip_code,categorical,All experiment groups,cramers_v,0.004736776172380078,,,0.5794791381657297
+channel,categorical,All experiment groups,cramers_v,0.005327113443229678,,,0.45803390781197906

@@ -1,0 +1,13 @@
+check,result,interpretation
+Customer records,64000,Informational
+Data fields,12,Informational
+Missing required columns,0,Pass when 0
+Unexpected columns,0,Review when above 0
+Missing cells,0,Pass when 0
+Rows with invalid binary values,0,Pass when 0
+Rows with unexpected experiment groups,0,Pass when 0
+Conversions without a visit,0,Pass when 0
+Positive spend without conversion,0,Pass when 0
+Conversions with zero spend,0,Pass when 0
+Negative historical spend,0,Pass when 0
+Negative outcome spend,0,Pass when 0
